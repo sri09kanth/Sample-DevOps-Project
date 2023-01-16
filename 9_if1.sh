@@ -10,8 +10,7 @@ then
    echo "Your Number is greater than 100"
    echo
    date
-else
-  echo "You have entered number less than 100."
+ than 100."
 fi
 
 
