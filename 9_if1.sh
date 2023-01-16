@@ -10,7 +10,7 @@ then
    echo "Your Number is greater than 100"
    echo
    date
- than 100
+
 
 
 
