@@ -19,7 +19,6 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
    ```sh
    docker tag ubuntu:latest valaxy/ubuntu:demo
    ```
-
 1. login to your docker hub registry 
    ```sh
    docker login
