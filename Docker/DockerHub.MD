@@ -5,7 +5,7 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
 
 1. Create a docker hub account in https://hub.docker.com/
 
-1. Pull a docker image 
+1. Pull a docker imae 
    ``
    docker pull ubun
   
