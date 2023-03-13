@@ -8,7 +8,7 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
 1. Pull a docker image 
    ``
    docker pull ubunt
-   ``
+  
 . pull a docker  with the old version
 
    ```
