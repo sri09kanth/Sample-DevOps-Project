@@ -22,7 +22,6 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
    docker login
    docker push valaxy/ubuntu:demo
    ```
-
 ### testing 
 1. Remove all images in docker server 
   
