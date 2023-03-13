@@ -12,7 +12,7 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
    ``
 1. pull a docker  with the old version
 
-   ```sh
+   ```
    docker pull ubuntu:16.04
    ```
 
