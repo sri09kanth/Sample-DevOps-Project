@@ -13,7 +13,7 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
    docker pull ubuntu:16.
    ```
 
-1. create a custom tag to the docker image
+1. create a custom tag to the docker imag
    ```sh
    docker tag ubuntu:latest valaxy/ubuntu:demo
    ```
