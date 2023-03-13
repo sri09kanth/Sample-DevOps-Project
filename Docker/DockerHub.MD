@@ -27,7 +27,6 @@ Docker Hub is a cloud-based registry service which allows you to link to code re
    ```
 
 ### testing 
-
 1. Remove all images in docker server 
    ```sh 
    docker image rm -f <Image_id>
